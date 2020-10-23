@@ -1,6 +1,5 @@
 # Some changes
 
 - [ ] foo
-- [x] bar
 
-# Will be previous
+so git reset
